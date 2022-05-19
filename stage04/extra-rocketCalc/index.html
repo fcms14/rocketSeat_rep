@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calc</title>
+    <link rel="stylesheet" href="calc.css">
+</head>
+
+<body>
+    <div class="calc-box">
+
+        <div class="display">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <h4 id="mem"> </h4>
+            <h1 id="input"> </h1>
+        </div>
+
+        <div class="calc">
+            <div onclick="typed('7')"> 7 </div>
+            <div onclick="typed('8')"> 8 </div>
+            <div onclick="typed('9')"> 9 </div>
+            <div onclick="typed('4')"> 4 </div>
+            <div onclick="typed('5')"> 5 </div>
+            <div onclick="typed('6')"> 6 </div>
+            <div onclick="typed('1')"> 1 </div>
+            <div onclick="typed('2')"> 2 </div>
+            <div onclick="typed('3')"> 3 </div>
+            <div onclick="typed('.')"> , </div>
+            <div onclick="typed('0')"> 0 </div>
+            <div onclick="equalPress()"> = </div>
+
+            <div class="right">
+                <div onclick="cls()"> DEL </div>
+                <div onclick="func('div')"> / </div>
+                <div onclick="func('mult')"> x </div>
+                <div onclick="func('sub')"> - </div>
+                <div onclick="func('sum')"> + </div>
+            </div>
+        </div>
+
+    </div>
+</body>
+
+<script src="calc.js"></script>
+
+</html>
