@@ -24,6 +24,50 @@ A repository to document the weekly Explorer program challenges
 <img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
 
+
+
+<ul>
+                <li> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage02' target='blank'>> Stage 02 </a>
+                    <ul>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage02/challenge01' target='blank'> Challenge 01 </a> <a href='/stage02/challenge01' target='blank'> Page </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage02/challenge02' target='blank'> Challenge 02 </a> <a href='/stage02/challenge02' target='blank'> Page </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage02/challenge03' target='blank'> Challenge 03 </a> <a href='/stage02/challenge03' target='blank'> Page </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage02/challenge04' target='blank'> Challenge 04 </a> <a href='/stage02/challenge04' target='blank'> Page </a> </li>
+                    </ul>
+                </li>
+                <li> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage03' target='blank'>> Stage 03 </a>
+                    <ul>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage03/challenge01-1' target='blank'> Challenge 01.1 </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage03/challenge01-2' target='blank'> Challenge 01.2 </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage03/challenge02' target='blank'> Challenge 02 </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage03/challenge03' target='blank'> Challenge 03 </a> </li>
+                    </ul>
+                </li>
+                <li> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage04' target='blank'>> Stage 04 </a>
+                    <ul>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage04/challenge1' target='blank'> Challenge 01 </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage04/challenge2' target='blank'> Challenge 02 </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage04/extra-rocketCalc' target='blank'> Extra - RocketCalc </a>
+                        </li>
+                        <li> -> <a href='https://codepen.io/fcms14/pen/abEMdVy' target='blank'> Extra - Loops Study </a>
+                        </li>
+                    </ul>
+                </li>
+                <li> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage05' target='blank'>> Stage 05 </a>
+                    <ul>
+                        <li> -> "<a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage05/challenge01' target='blank'> Challenge 01 </a> </li>
+                    </ul>
+                </li>
+                <li> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage06' target='blank'>> Stage 06 </a>
+                    <ul>
+                        <li> -> "<a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage06/challenge01' target='blank'> Challenge 01 </a> </li>
+                        <li> -> "<a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage06/challenge02' target='blank'> Challenge 02 </a> </li>
+                    </ul>
+                </li>
+            </ul>
+
+
+
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/fcms14?size=100">
 
