@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #323238;
+
+    --button-color: #E1E1E6;
+    --button-color-active: #02799D;
+    --button-icon: #323238;
+    --button-icon-active: #ffffff;
+
+    font-size: 6.25%;
+}
+
+:root .nightTheme{
+    --primary-color: #FFFFFF;
+    --button-color: #29292E;
+    --button-color-active: #0A3442;
+    --button-icon: #ffffff;
+    --button-icon-active: #ffffff;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+}
+.nightTheme {
+    background-color: #121214;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-self: center;
+    width: clamp(300px, 550px + 10vw, 821px);
+    gap: 15px;
+}
+
+.timer {
+    font-family: 'Roboto', sans-serif;
+    font-size: clamp(22rem, 22rem + 10vw, 126rem);
+    line-height: 148rem;
+    text-align: center;
+    color: var(--primary-color);
+}
+
+.controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.controls svg {
+    width: clamp(24rem, 24rem + 10vw, 48rem);
+    height: clamp(24rem, 24rem + 10vw, 48rem);
+}
+.controls svg path {
+    fill: var(--primary-color);
+}
+
+.pause {
+    transform: scale(1.2);
+}
+
+.hide {
+    display: none;
+}
+
+.sounds-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 336px;
+    gap: clamp(8rem, 8rem + 1vw, 32rem);
+}
+
+.card {
+    position: relative;
+    /* height: 170px;
+    background-color: var(--button-color);
+    border-radius: 20px; */
+}
+
+input[type=range] {
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
+
+    width: 85%;
+    -webkit-appearance: none;
+    margin: 0;
+    border-radius: 999px;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    height: 5px;
+    cursor: pointer;
+    background: var(--button-icon);
+    border-radius: 999px;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    height: 14px;
+    width: 14px;
+    border-radius: 90px;
+    background: var(--button-icon);
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -5px;
+}
+
+.activeCard + input[type=range]::-webkit-slider-thumb,
+.activeCard + input[type=range]::-webkit-slider-runnable-track {
+    background: #ffffff;
+}
+
+
+
+
+.sounds-buttons svg {
+    width: clamp(69rem, 69rem + 10vw, 138rem);
+    height: clamp(76rem, 76rem + 10vw, 152rem);
+}
+
+.sounds-buttons svg path {
+    fill: var(--button-color);
+}
+
+.sounds-buttons path+path {
+    fill: var(--button-icon);
+}
+
+.sounds-buttons .active svg path {
+    fill: var(--button-color-active);
+}
+
+.sounds-buttons .active svg path+path {
+    fill: var(--button-icon-active);
+}
+
+.sounds-buttons svg path:hover {
+    fill: var(--button-color-active);
+}
+
+.night,
+.day {
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    top: 60px;
+    right: 60px;
+    cursor: pointer;
+}

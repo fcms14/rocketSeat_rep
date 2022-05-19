@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #4a808c;
+}
+
+body {
+    background-color: #030B0D;
+    /* #2F2F33; */
+    width: 100%;
+    max-height: 100%;
+    color: #FFFFFF;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.storageC{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: right;
+}
+
+select {
+    background-color: #065E7C;
+    border: none;
+    border-radius: 50px;
+    padding: 15px 30px 15px 15px;
+    margin-top: 10px;
+    
+    color: #FFFFFF;
+    font-size: 14px;
+    text-align: right;   
+
+    appearance: none;
+    -webkit-appearance: none;  
+    background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 10L12 14L16 10' stroke='%239C98A6' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A");
+    background-repeat: no-repeat;
+    background-position: right 5px top 50%;
+}
+
+header {
+    width: 77%;
+    max-width: 1120px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 115px auto 87px;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+header .logo {
+    width: 20%;
+    min-width: 150px;
+    height: auto;
+}
+
+header label {
+    display: none;
+}
+
+header input {
+    width: clamp(240px, 50%, 462px);
+    background-color: #06181C;
+    padding: 16px;
+    border: none;
+    border-radius: 5px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: clamp(10px, 5px + 2vw, 16px);
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+header input::placeholder {
+    text-align: right;
+}
+
+header button {
+    background-color: #065E7C;
+    padding: 12px 32px;
+    border-radius: 5px;
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    text-transform: uppercase;
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+header button:hover {
+    background-color: #065E7C90;
+}
+
+main {
+    width: 77%;
+    max-width: 1120px;
+    margin: 0 auto;
+    border: 1px #4a808c solid;
+    border-radius: 12px;
+    max-height: 70vh;
+    overflow: auto;
+
+    position: relative;
+}
+
+::-webkit-scrollbar {
+    width: 15px;    
+}
+
+::-webkit-scrollbar-thumb {
+    border: 3px solid transparent;
+    background-clip: padding-box;
+    background-color: #4a808c;
+    border-radius: 10px;
+}
+
+
+table {
+    width: 100%;
+    background-color: #043444;
+    border-collapse: collapse;
+    border-radius: 12px;
+    overflow: auto;
+    position: relative;
+}
+
+
+table thead th {
+    text-align: left;
+    padding: clamp(8px, 4px + 1vw, 16px) clamp(10px, 5px + 1vw, 40px);
+
+    background-color: #043444;
+
+    font-family: 'Roboto';
+    font-size: clamp(10px, 5px + 1vw, 20px);
+    color: #E1E1E6;
+
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;    
+}
+
+
+table tbody tr {
+    background-color: #030B0D;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #07181c;
+}
+
+table tbody tr td {
+    padding: clamp(8px, 4px + 1vw, 16px) clamp(10px, 5px + 1vw, 40px);
+
+    font-family: 'Roboto';
+    font-size: clamp(10px, 5px + 1vw, 20px);
+    color: #E1E1E6;
+    border-bottom: 1px solid #4a808c;
+}
+
+table tbody tr td span {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+table tbody tr td img {
+    width: 56px;
+    height: 56px;
+    ;
+    border-radius: 50px;
+}
+
+table tbody tr td button {
+    background-color: transparent;
+    border: 0;
+    color: #F75A68;
+    cursor: pointer;
+}
+
+.empty {
+    background-color: #030B0D;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 5%;
+
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: clamp(20px, 10px + 2vw, 40px);
+    line-height: 25px;
+
+    color: #4E5455;
+}
+
+.empty img {
+    width: 12%;
+}
+
+@media only screen and (max-width: 510px) {
+    main {
+        width: 100%;
+        height: 55vh;
+    }
+}

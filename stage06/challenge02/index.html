@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitFav</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="storageC">
+        <label for="storage"> Selecione o local de armazenagem </label>
+        <br />
+        <select id="storage">
+            <option value="localStorage" >LocalStorage</option>
+            <option value="mySql">MySql</option>
+            <option value="session" selected>Session</option>
+        </select>
+    </div>
+
+
+    <form action="" id="formSearch" autocomplete="off">
+        <header>
+            <img src="assets/logo.svg" class="logo" />
+            <label for="search"> Digite o usuário do Github para favoritar</label>
+            <input id="inputSearch" type="text" placeholder="Digite o usuário do Github para " />
+            <button><img src="assets/star.svg" /> Favoritar </button>
+        </header>
+    </form>
+
+    <main>
+        <table>
+            <thead>
+                <tr>
+                    <th width="44%"> Usuário </td>
+                    <th> Repositórios </td>
+                    <th> Seguidores </td>
+                    <th width="15%"> Ação </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+
+</body>
+<script src="./js/index.js" type="module"></script>
+
+</html>
