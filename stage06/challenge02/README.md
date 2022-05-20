@@ -6,11 +6,6 @@
 </h2>
 
 <p align="center">
-	<img src="https://img.shields.io/github/last-commit//?color=green"/>
-	<img src="https://img.shields.io/github/languages/count//?color=green"/>
-</p>
-
-<p align="center">
 	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
 	<a href="#contact">Contact</a> 
@@ -38,8 +33,6 @@ Bora praticar e rever tudo o que foi ensinado na aula? **💜**
 
 A ideia agora é criar o **SPA Universe**! 🚀
 Você receberá um **[link](https://www.figma.com/file/m8zp3mtxvwyTGQs69nIFM8/%5BDesafios-Explorer%5D-SPA-Universe/duplicate)** com o layout dessa aplicação, como você pode ver ~~(um pedacinho do que vem pela frente)~~ na imagem abaixo:
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c547771-41e4-4e21-9b71-241fe1387cf6/Untitled.png)
 
 A ideia aqui é você utilizar todos os conceitos aprendidos em aula em uma aplicação visualmente mais bonita. Irado, né? 😛 
 

@@ -3,11 +3,6 @@
 </h1>
 
 <p align="center">
-	<img src="https://img.shields.io/github/last-commit//?color=green"/>
-	<img src="https://img.shields.io/github/languages/count//?color=green"/>
-</p>
-
-<p align="center">
 	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
 	<a href="#contact">Contact</a> 
