@@ -18,22 +18,23 @@
 
 # 💻 Sobre o desafio
 
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.
-E, novamente, a surpresa ~~(não tão surpresa assim)~~ vem aí...  **👀**  
-O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
+Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
 
-Topa encarar esse desafio e deixar o site com a mesma carinha de antes? **💜**
+Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele **não** apresenta a semântica correta.
+Como você pode ver na imagem abaixo, a página ~~(exceto o botão)~~ continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... **👀**
+
+Topa encarar esse desafio e deixar o site mais acessível? **💜**
 Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
 
 ****Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
 
-Para facilitar, vamos deixar o link do Figma [**aqui**](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1).
+Para facilitar, vamos deixar o link do Figma **[aqui](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)** pra você.
 
 ## Código do desafio
 
-Abaixo você terá o código ~~(quebrado)~~ do desafio zipado. 
+Abaixo você terá o código do desafio zipado:
 
-[Código do desafio - Fase 02](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cae98c59-12ce-499d-9b19-9b2f64250e62/Untitled.zip)
+[Código do desafio - Acessibilidade](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/074e50c6-5bdf-4882-add6-b4443f3cd6d2/Untitled.zip)
 
 Boa sorte e boooooora codar! **🚀**
 

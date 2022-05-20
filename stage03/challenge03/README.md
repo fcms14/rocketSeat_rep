@@ -18,22 +18,29 @@
 
 # 💻 Sobre o desafio
 
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 02.
-E, novamente, a surpresa ~~(não tão surpresa assim)~~ vem aí...  **👀**  
-O código sofreu algumas alterações nos principais pontos abordados nessa fase e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
+Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no **Stage 02**.
 
-Topa encarar esse desafio e deixar o site com a mesma carinha de antes? **💜**
-Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
+## Figma da aplicação
 
-****Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
+O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) abaixo:
 
-Para facilitar, vamos deixar o link do Figma [**aqui**](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1).
+[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106)
 
-## Código do desafio
+<aside>
+⚠️ **Alerta**: Caso ao clicar no link você se depare com o erro que `WebGL` não está ativado no seu navegador, [siga esses passos](https://help.figma.com/hc/en-us/articles/360039828614#Enable_WebGL).
 
-Abaixo você terá o código ~~(quebrado)~~ do desafio zipado. 
+</aside>
 
-[Código do desafio - Fase 02](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cae98c59-12ce-499d-9b19-9b2f64250e62/Untitled.zip)
+## Quais arquivos devo criar na minha aplicação?
+
+Além de criar a pasta **images**, que irá conter as imagens da sua aplicação, seu projeto deverá ter os seguintes arquivos:
+
+- *index.html*
+- *style.css*
+
+Para facilitar pra você, vou deixar a pasta com as imagens exportadas do Figma por aqui! 💜
+
+[images](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cf4910f-11e9-4806-baaf-a7e14b1124b7/Untitled.zip)
 
 Boa sorte e boooooora codar! **🚀**
 
