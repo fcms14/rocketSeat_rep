@@ -44,8 +44,8 @@ A repository to document the weekly Explorer program challenges
     </li>
     <li> <a href='/stage04' target='blank'>> Stage 04 </a>
         <ul>
-            <li> -> <a href='./stage04/challenge1' target='blank'> Challenge 01 </a> </li>
-            <li> -> <a href='./stage04/challenge2' target='blank'> Challenge 02 </a> </li>
+            <li> -> <a href='./stage04/challenge01' target='blank'> Challenge 01 </a> </li>
+            <li> -> <a href='./stage04/challenge02' target='blank'> Challenge 02 </a> </li>
             <li> -> <a href='./stage04/extra-rocketCalc' target='blank'> Extra - RocketCalc </a> </li>
             <li> -> <a href='https://codepen.io/fcms14/pen/abEMdVy' target='blank'> Extra - Loops Study </a>
             </li>
