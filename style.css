@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+*{
+    margin: 0px autp;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Anonymous Pro', monospace;
+}
+
+body{
+    background-color: rgb(6, 8, 36);
+    color: #FFFFFF;
+    line-height: 200%;
+    margin: 20px;
+}
+
+header{
+    color: #FFFFFF;
+}
+
+a, a:hover{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+hr{
+    margin: 0px 0 10px;
+}
+
+h1{
+    margin: 10px 0 5px;
+}
+
+footer img{
+    margin: 10px;
+}
+
+nav{
+    line-height: 110%;
+}
