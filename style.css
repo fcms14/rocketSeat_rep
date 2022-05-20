@@ -1,31 +1,33 @@
-@import url(https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
 *{
     margin: 0px autp;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Anonymous Pro', monospace;
+    font-family: "Segoe UI", sans-serif;
 }
 
 body{
-    background-color: rgb(6, 8, 36);
-    color: #FFFFFF;
+    background-color: #0d1117;
+    color: #cacaca;
     line-height: 200%;
     margin: 20px;
 }
 
 header{
-    color: #FFFFFF;
+    color: #ebebeb;
 }
 
 a, a:hover{
-    color: #FFFFFF;
+    color: #58a6ff;
     text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
 
 hr{
     margin: 0px 0 10px;
+    border: #30363d 1px solid;
 }
 
 h1{
