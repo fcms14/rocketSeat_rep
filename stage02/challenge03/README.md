@@ -1,6 +1,9 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 02
+	Rocketseat's Explorer Repository - Stage 02 - 03
 </h1>
+<h2>
+	Intermediário - Semântica e acessibilidade. 💜
+</h2>
 
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit//?color=green"/>

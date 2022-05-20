@@ -1,6 +1,9 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 02
+	Rocketseat's Explorer Repository - Stage 02 - 02
 </h1>
+<h2>
+	Iniciante - Corrigindo bugs (02) 👀
+</h2>
 
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit//?color=green"/>
