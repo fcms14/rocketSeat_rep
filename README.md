@@ -2,6 +2,13 @@
 	Rocketseat's Explorer Repository
 </h1>
 
+![created](https://badges.pufler.dev/created/fcms14/rocketSeat_rep?color=5F9EA0) &nbsp;
+![last commit](https://img.shields.io/github/last-commit/fcms14/rocketSeat_rep?color=5F9EA0 'last commit') &nbsp;
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fcms14.rocketSeat_rep&right_color=CadetBlue) &nbsp;
+![repo size](https://img.shields.io/github/repo-size/fcms14/rocketSeat_rep?color=5F9EA0 'repo size') &nbsp;
+![languages](https://img.shields.io/github/languages/count/fcms14/rocketSeat_rep?color=5F9EA0 'languages') &nbsp;
+![license](https://img.shields.io/github/license/fcms14/rocketSeat_rep?color=5F9EA0) 
+
 <p align="center">
 	<a href="#about">About</a> •
 	<a href="#tech-stack">Tech Stack</a> •
