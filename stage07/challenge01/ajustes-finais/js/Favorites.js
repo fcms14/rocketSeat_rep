@@ -1,8 +1,5 @@
 import { GithubUser } from "./GithubUser.js"
 
-
-// Adding comments before refactoring
-
 // classe que vai conter a lógica dos dados
 // como os dados serão estruturados
 export class Favorites {
@@ -36,7 +33,7 @@ export class Favorites {
             }
 
             this.entries = [user, ...this.entries]
-            this.update()                                           // A classe pai nunca pode invocar um metodo criado na classe filha
+            this.update()
             this.save()
 
         } catch (error) {
@@ -49,29 +46,8 @@ export class Favorites {
             .filter(entry => entry.login !== user.login)
 
         this.entries = filteredEntries
-        this.update()                                               // A classe pai nunca pode invocar um metodo criado na classe filha
-        this.save()
-    }
-}
-
-// classe que vai criar a visualização e eventos do HTML
-export class FavoritesView extends Favorites {
-    constructor(root) {
-        super(root)
-
-        this.tbody = this.root.querySelector('table tbody')
-
         this.update()
-        this.onadd()
-    }
-
-    onadd() {
-        const addButton = this.root.querySelector('.search button')
-        addButton.onclick = () => {
-            const { value } = this.root.querySelector('.search input')
-
-            this.add(value)
-        }
+        this.save()
     }
 
     update() {
@@ -103,31 +79,25 @@ export class FavoritesView extends Favorites {
         const tr = document.createElement('tr')
 
         tr.innerHTML = `
-      <td class="user">
-        <img src="https://github.com/maykbrito.png" alt="Imagem de maykbrito">
-        <a href="https://github.com/maykbrito" target="_blank">
-          <p>Mayk Brito</p>
-          <span>maykbrito</span>
-        </a>
-      </td>
-      <td class="repositories">
-        76
-      </td>
-      <td class="followers">
-        9589
-      </td>
-      <td>
-        <button class="remove">&times;</button>
-      </td>
-    `
+            <td class="user">
+                <img src="https://github.com/maykbrito.png" alt="Imagem de maykbrito">
+                <a href="https://github.com/maykbrito" target="_blank">
+                    <p>Mayk Brito</p>
+                    <span>maykbrito</span>
+                </a>
+            </td>
+            <td class="repositories">
+                76
+            </td>
+            <td class="followers">
+                9589
+            </td>
+            <td>
+                <button class="remove">&times;</button>
+            </td>
+        `
 
         return tr
     }
-
-    removeAllTr() {
-        this.tbody.querySelectorAll('tr')
-            .forEach((tr) => {
-                tr.remove()
-            })
-    }
 }
+
