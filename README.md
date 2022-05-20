@@ -57,8 +57,8 @@ A repository to document the weekly Explorer program challenges
     </li>
     <li> <a href='./stage06/' target='blank'>> Stage 06 </a>
         <ul>
-            <li> -> "<a href='https://rocket-stage06-spa.glitch.me/' target='blank'> Challenge 01 </a>    </li>
-            <li> -> "<a href='https://lynxsw.com.br/gitFav/' target='blank'> Challenge 02 </a>            </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage06/challenge01' target='blank'> Challenge 01 </a> - <a href='https://rocket-stage06-spa.glitch.me/' target='blank'> Page </a> </li>
+                        <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage06/challenge02' target='blank'> Challenge 02 </a> - <a href='https://lynxsw.com.br/gitFav/' target='blank'> Page </a> </li>
         </ul>
     </li>
 </ul>
