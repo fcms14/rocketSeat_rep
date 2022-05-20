@@ -1,6 +1,9 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 02
+	Rocketseat's Explorer Repository - Stage 03 - 03
 </h1>
+<h2 align="center">
+	Grid com animações
+</h2>
 
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit//?color=green"/>
@@ -18,29 +21,23 @@
 
 # 💻 Sobre o desafio
 
-Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no **Stage 02**.
+Bora colocar em prática tudo o que foi visto nessa terceira fase! 😍
+A ideia agora é criar o **Space Cream** na versão Desktop! 🚀
 
-## Figma da aplicação
+Você receberá um **[link](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate)** com o layout, como você pode ver logo abaixo:
 
-O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) abaixo:
+Se atente ao conteúdo que foi passado na aula. Portanto, **nesse** desafio, lembre-se de usar:
 
-[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106)
+- Grid;
+- Animações e transições, como visto em aula;
+- Media queries.
 
-<aside>
-⚠️ **Alerta**: Caso ao clicar no link você se depare com o erro que `WebGL` não está ativado no seu navegador, [siga esses passos](https://help.figma.com/hc/en-us/articles/360039828614#Enable_WebGL).
+**Obs:** Você pode usar o desafio anterior como base. Não tem necessidade de criar um novo arquivo para esse desafio. Belezinha? 
+Como você pode ver, na versão Desktop tem um **footer** e na versão mobile, não. 
+E aí? Como será que podemos controlar isso, hein? 👀
+Topa encarar esse desafio?  **💜**
 
-</aside>
-
-## Quais arquivos devo criar na minha aplicação?
-
-Além de criar a pasta **images**, que irá conter as imagens da sua aplicação, seu projeto deverá ter os seguintes arquivos:
-
-- *index.html*
-- *style.css*
-
-Para facilitar pra você, vou deixar a pasta com as imagens exportadas do Figma por aqui! 💜
-
-[images](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7cf4910f-11e9-4806-baaf-a7e14b1124b7/Untitled.zip)
+Lembrando: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá! 
 
 Boa sorte e boooooora codar! **🚀**
 

@@ -1,7 +1,7 @@
 <h1 align="center">
 	Rocketseat's Explorer Repository - Stage 02 - 01
 </h1>
-<h2>
+<h2 align="center">
 	Iniciante - Corrigindo bugs (01) 👀
 </h2>
 

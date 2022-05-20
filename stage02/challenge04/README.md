@@ -1,7 +1,7 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 02 - 03
+	Rocketseat's Explorer Repository - Stage 02 - 04
 </h1>
-<h2>
+<h2 align="center">
 	Desafio avançado - Recriando layout
 </h2>
 

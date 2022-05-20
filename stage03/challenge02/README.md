@@ -1,6 +1,9 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 02
+	Rocketseat's Explorer Repository - Stage 03 - 02
 </h1>
+<h2 align="center">
+	Mobile first
+</h2>
 
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit//?color=green"/>
@@ -18,23 +21,27 @@
 
 # 💻 Sobre o desafio
 
-Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização **correta** dos elementos do HTML.
+E aí, curtiu aprender mais sobre responsividade? 👀
+Então bora colocar em prática tudo o que foi visto nessa fase! 😍
 
-Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele **não** apresenta a semântica correta.
-Como você pode ver na imagem abaixo, a página ~~(exceto o botão)~~ continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... **👀**
+A ideia agora é criar o **Space Cream**, ~~nossa página de sorvetes~~, levando em consideração o Mobile first! 🍦
 
-Topa encarar esse desafio e deixar o site mais acessível? **💜**
-Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
+Você receberá um **[link](https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First/duplicate)** com o layout, como você pode ver logo abaixo:
 
-****Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
+Tente se atentar ao conteúdo que foi passado na aula. Portanto, nesse desafio, lembre-se de usar:
 
-Para facilitar, vamos deixar o link do Figma **[aqui](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1)** pra você.
+- Mobile First;
+- Unidade de medida flexível;
+- Variáveis;
+- Animações simples.
+Vou deixar aqui um gif com o exemplo de uma animação que você pode implementar:
 
-## Código do desafio
+![desafio-Space.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/565efcff-040e-445a-a2d2-30fbdd72cc22/desafio-Space.gif)
 
-Abaixo você terá o código do desafio zipado:
+Como você pode ver, a ideia aqui é: ao carregar a tela as imagens sobem enquanto os tipos de sorvete descem. 
+E aí, vai encarar? 😉💜
 
-[Código do desafio - Acessibilidade](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/074e50c6-5bdf-4882-add6-b4443f3cd6d2/Untitled.zip)
+****Lembrando: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá! 
 
 Boa sorte e boooooora codar! **🚀**
 

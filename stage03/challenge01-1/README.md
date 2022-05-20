@@ -1,7 +1,7 @@
 <h1 align="center">
 	Rocketseat's Explorer Repository - Stage 03 - 01.01
 </h1>
-<h2>
+<h2 align="center">
 	Criando formulários
 </h2>
 
@@ -21,21 +21,32 @@
 
 # 💻 Sobre o desafio
 
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01.
-Mas, a surpresa vem aí...  **👀**  
-O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
+E aí, curtiu aprender mais sobre formulários? 👀
+Bora colocar em prática tudo o que foi visto nessa primeira fase? 😍
 
-Topa encarar esse desafio e deixar o site com a mesma carinha de antes? **💜**
+Você receberá um **[link](https://www.figma.com/file/Nws1KWB7DyXBw8L6wXb9mp/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio/duplicate)** com um layout de um formulário, como você pode ver logo abaixo:
 
-Tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
+Topa encarar esse desafio? **💜**
+Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
 
-Para facilitar, vamos deixar **[aqui](https://explorer-stage02-p01.vercel.app/)** o link do projeto em si e [**aqui**](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01) o link do Figma.
+****Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas para relembrar algumas dicas!
 
-## Código do desafio
+Achou que acabaria por aqui? 👀
 
-Abaixo você terá o código ~~(quebrado)~~ do desafio zipado. 
+Temos um bônus pra você! 😍 💜
+Sabemos o quanto os nosso alunos curtem recriar um layout então temos **[mais um por aqui.](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado/duplicate)**
+Clicando no link, você encontra outra opção de formulário, um pouco mais complexa que o anterior.
 
-[Código do desafio - Fase 01](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64999d76-99f7-4b3f-bcab-41946db94507/Untitled.zip)
+Nesse abordaremos:
+
+- Campo select;
+- Campo checkbox;
+- Imagem centralizada no header.
+
+Importante ressaltar: fique à vontade caso queira alterar as cores, adicionar mais campos, estilizar da sua maneira, viu? 💜
+
+**OBS**: Fica a seu critério escolher se quer recriar apenas um ou os dois formulários, ta bom? 😉
+Mas, lembre-se: quanto mais você praticar, mais fácil fica de absorver o conteúdo passado.
 
 Boa sorte e boooooora codar! **🚀**
 

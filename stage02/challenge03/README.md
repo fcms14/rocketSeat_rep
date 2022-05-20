@@ -1,7 +1,7 @@
 <h1 align="center">
 	Rocketseat's Explorer Repository - Stage 02 - 03
 </h1>
-<h2>
+<h2 align="center">
 	Intermediário - Semântica e acessibilidade. 💜
 </h2>
 
