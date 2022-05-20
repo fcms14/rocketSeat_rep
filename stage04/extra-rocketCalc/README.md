@@ -1,8 +1,8 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 04 - 01
+	Rocketseat's Explorer Repository - Stage 04 - Extra
 </h1>
 <h2 align="center">
-	<a href="https://fcms14.github.io/rocketSeat_rep/stage04/challenge01/"> Exercício 01 </a>
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage04/extra-rocketCalc/"> Extra - RocketCalc </a>
 </h2>
 
 <p align="center">

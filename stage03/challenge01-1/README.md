@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 03 - 01.01
 </h1>
 <h2 align="center">
-	<a href="https://fcms14.github.io/rocketSeat_rep/stage03/challenge01-01/"> Criando formulários </a>		
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage03/challenge01-1/"> Criando formulários </a>		
 </h2>
 
 <p align="center">
