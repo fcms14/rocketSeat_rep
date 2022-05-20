@@ -1,8 +1,8 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 02 - 01
+	Rocketseat's Explorer Repository - Stage 04 - 01
 </h1>
 <h2 align="center">
-	<a href="https://fcms14.github.io/rocketSeat_rep/stage02/challenge01/"> Iniciante - Corrigindo bugs (01) 👀 </a>
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage04/challenge01/"> Exercício 01 </a>
 </h2>
 
 <p align="center">
@@ -21,27 +21,14 @@
 
 # 💻 Sobre o desafio
 
-Nesse desafio, você receberá um código com o projeto desenvolvido durante as aulas da Fase 01.
-Mas, a surpresa vem aí...  **👀**  
-O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
-
-Topa encarar esse desafio e deixar o site com a mesma carinha de antes? **💜**
-
-Tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
-
-Para facilitar, vamos deixar **[aqui](https://explorer-stage02-p01.vercel.app/)** o link do projeto em si e [**aqui**](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01) o link do Figma.
-
-## Código do desafio
-
-Abaixo você terá o código ~~(quebrado)~~ do desafio zipado. 
-
-[Código do desafio - Fase 01](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/64999d76-99f7-4b3f-bcab-41946db94507/Untitled.zip)
+Criar uma calculador usando HTML, CSS e JS afim de revisar o conteúdo abordado.
 
 Boa sorte e boooooora codar! **🚀**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/fcms14?size=100">

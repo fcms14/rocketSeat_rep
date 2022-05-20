@@ -1,8 +1,8 @@
 <h1 align="center">
 	Rocketseat's Explorer Repository - Stage 02 - 04
 </h1>
-<h2 align="center">
-	Desafio avançado - Recriando layout
+<h2 align="center">	
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage02/challenge04/"> Desafio avançado - Recriando layout </a>	
 </h2>
 
 <p align="center">

@@ -1,8 +1,8 @@
 <h1 align="center">
 	Rocketseat's Explorer Repository - Stage 02 - 03
 </h1>
-<h2 align="center">
-	Intermediário - Semântica e acessibilidade. 💜
+<h2 align="center">	
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage02/challenge03/"> Intermediário - Semântica e acessibilidade. 💜 </a>	
 </h2>
 
 <p align="center">

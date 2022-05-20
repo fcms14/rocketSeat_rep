@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 03 - 02
 </h1>
 <h2 align="center">
-	Mobile first
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage03/challenge02/"> Mobile first </a>				
 </h2>
 
 <p align="center">

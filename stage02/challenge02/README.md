@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 02 - 02
 </h1>
 <h2 align="center">
-	Iniciante - Corrigindo bugs (02) 👀
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage02/challenge02/"> Iniciante - Corrigindo bugs (02) 👀 </a>	
 </h2>
 
 <p align="center">
