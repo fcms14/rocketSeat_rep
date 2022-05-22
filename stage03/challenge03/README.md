@@ -14,27 +14,22 @@
 ## About
 <img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100">
 
-# 💻 Sobre o desafio
+# 💻 About the challenge
+Let's put into practice everything that was seen in this third phase! 😍 The idea now is to create Space Cream in the Desktop version! 🚀
 
-Bora colocar em prática tudo o que foi visto nessa terceira fase! 😍
-A ideia agora é criar o **Space Cream** na versão Desktop! 🚀
+You will receive a **[link](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate)** with the layout, as you can see below:
 
-Você receberá um **[link](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate)** com o layout, como você pode ver logo abaixo:
-
-Se atente ao conteúdo que foi passado na aula. Portanto, **nesse** desafio, lembre-se de usar:
+Pay attention to the content that was taught in class. So, in this challenge, remember to use:
 
 - Grid;
-- Animações e transições, como visto em aula;
-- Media queries.
+- Animations and transitions, as seen in class;
+- Medium queries.
 
-**Obs:** Você pode usar o desafio anterior como base. Não tem necessidade de criar um novo arquivo para esse desafio. Belezinha? 
-Como você pode ver, na versão Desktop tem um **footer** e na versão mobile, não. 
-E aí? Como será que podemos controlar isso, hein? 👀
-Topa encarar esse desafio?  **💜**
+**Note:** You can use the previous challenge as a base. No need to create a new file for this challenge. beauty? As you can see, the Desktop version has a footer and the mobile version doesn't. And there? How can we control this, huh? 👀 Are you ready to face this challenge? **💜**
 
-Lembrando: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá! 
+Remembering: try to challenge yourself, but if you have any difficulties, you can go to our **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** and leave your question there!
 
-Boa sorte e boooooora codar! **🚀**
+Good luck and leeeeeeets code! **🚀**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
