@@ -68,6 +68,11 @@ A repository to document the weekly Explorer program challenges
             <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage07/challenge01' target='blank'> Challenge 01 </a> </li>
         </ul>
     </li>
+    <li> <a href='./stage08/' target='blank'>> Stage 08 </a>
+        <ul>
+            <li> -> <a href='https://github.com/fcms14/rocketSeat_rep/tree/main/stage08/challenge01' target='blank'> Challenge 01 </a> </li>
+        </ul>
+    </li>
 </ul>
 
 ## Contact
