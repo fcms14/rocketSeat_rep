@@ -24,8 +24,6 @@ E olha que teve conteúdo, hein? 👀
 A ideia agora é criar uma aplicação em Node.js onde o usuário cadastra um filme, preenche com algumas informações (nome, descrição, nota) e cria tags relacionadas a ele.
 Abaixo, temos um diagrama que você pode usar como base:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6aa38810-f18a-4739-bda5-09598d05700d/Untitled.png)
-
 Explicando cada tabela e seus campos:
 
 ******Valores inteiros que podem variar de 1 até o 5.
