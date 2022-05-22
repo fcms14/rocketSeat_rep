@@ -92,7 +92,7 @@ main{
     flex-direction: column;    
     align-items: center;
 }
-.produtos{
+.products{
     position: relative;
     border-radius: 20px;
 
@@ -104,16 +104,16 @@ main{
     animation-timing-function: cubic-bezier(0, 1.07, 0.58, 1.72);
     transition: all 600ms;
 }
-main .produtos:nth-child(even){
+main .products:nth-child(even){
     height: var(--prod-h2);
 }
 
-.produtos:hover {
+.products:hover {
     transform: scale(1.05);
     filter: contrast(110%);
 }
 
-.produtos img {
+.products img {
     object-fit: cover;
 
     height: 100%;
