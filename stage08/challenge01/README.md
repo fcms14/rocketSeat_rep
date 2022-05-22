@@ -1,5 +1,5 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 07 - 01
+	Rocketseat's Explorer Repository - Stage 08 - 01
 </h1>
 <h2 align="center">
 	<a href="#"> Land 08 - Aplicação em Node </a>
