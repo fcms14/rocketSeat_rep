@@ -83,7 +83,7 @@ function write(favs) {
         cleanTable();
         const tr = document.createElement('tr');
         tr.innerHTML = `
-                <td colspan="4" height="600">
+                <td colspan="4" style="border: 0px solid transparent; height: 50vh; ">
                     <div class="empty">
                         <img src="assets/empty.svg" /> Nenhum favorito ainda
                     </div>
