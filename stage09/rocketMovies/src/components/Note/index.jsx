@@ -11,7 +11,7 @@ export function Note({ data, ...rest }) {
 
       <Author>
         <img src={data.picture} alt="Foto do usuário" width = "20" />
-        Por <span> {data.author} </span> 
+        Por  <span> {data.author} </span> 
         <FiClock /> {data.date} às {data.time}
       </Author>
 

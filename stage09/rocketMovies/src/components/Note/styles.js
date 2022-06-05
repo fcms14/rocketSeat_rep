@@ -3,26 +3,29 @@ import styled from 'styled-components'
 
 export const Author = styled.div`
 
-    flex: none;
-    order: 1;
-    align-items: stretch;
-    flex-grow: 0;
+    display: flex;
 
-    text-align: justify;
+    padding: 10px 0;
+
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    color: ${({ theme }) => theme.COLORS.GRAY_300};
-
-    height: 40px;
+    color: ${({ theme }) => theme.COLORS.GRAY_100};
+    
 
     > img {
         border-radius: 50%;
         border: 1px solid ${({ theme }) => theme.COLORS.GRAY_100} ;
-        margin-right: 8px;
+        margin-right: 10px;
     }
-    svg {
-        margin-left: 8px;
+
+    > span {
+        margin-left: 5px;
+    }
+
+    > svg {
+        margin: 2px 5px 0 20px;
+        
         color: ${({ theme }) => theme.COLORS.PRIMARY};
     }
 `;
@@ -97,6 +100,7 @@ export const Container = styled.button`
 
     > p:hover{
         height: 80px;
+        color: ${({ theme }) => theme.COLORS.GRAY_100};
         @supports (-webkit-line-clamp: 4) {
             overflow: hidden;
             text-overflow: ellipsis;
