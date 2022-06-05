@@ -46,8 +46,6 @@ Alguns detalhes aprendidos em aula que seria interessante você adicionar no seu
 Boa sorte e boooooora codar! **🚀**
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Nodejs-05122A?style=flat&logo=node.js" alt="nodejs Badge" height="25">&nbsp;
 
 ## Contact
