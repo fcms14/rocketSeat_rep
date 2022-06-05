@@ -19,7 +19,7 @@
 E aí, bora praticar React.js? 💜
 A ideia agora é criar o front-end da aplicação em Node.js que você fez no desafio anterior. 
 Top, né? 👀
-Segue o link[https://www.figma.com/file/UObYagRzmvi5PY4HhmzEHM/RocketMovies/duplicate] do layout dessa aplicação: o RocketMovies.
+Segue o [link](https://www.figma.com/file/UObYagRzmvi5PY4HhmzEHM/RocketMovies/duplicate) do layout dessa aplicação: o RocketMovies.
 
 E aí, topa encarar esse desafio? 💜
 Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
