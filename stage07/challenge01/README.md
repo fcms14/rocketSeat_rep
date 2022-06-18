@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 07 - 01
 </h1>
 <h2 align="center">
-	<a href="https://fcms14.github.io/rocketSeat_rep/stage07/challenge01/"> Land 07 - Encontrando soluções </a>
+	<a href="https://fcms14.github.io/rocketSeat_rep/stage07/challenge01/"> Stage 07 - Encontrando soluções </a>
 </h2>
 
 <p align="center">

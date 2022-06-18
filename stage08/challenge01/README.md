@@ -2,7 +2,7 @@
 	Rocketseat's Explorer Repository - Stage 08 - 01
 </h1>
 <h2 align="center">
-	<a href="#"> Land 08 - Aplicação em Node </a>
+	<a href="#"> Stage 08 - Aplicação em Node </a>
 </h2>
 
 <p align="center">
