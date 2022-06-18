@@ -29,7 +29,7 @@ export function New() {
               <Input placeholder="Título" />
             </div>
             <div>
-              <Input range placeholder="Sua nota (de 0 a 5)" />
+              <Input placeholder="Sua nota (de 0 a 5)" />
             </div>
           </section>
 
@@ -41,7 +41,7 @@ export function New() {
 
           <h2> Marcadores </h2>
 
-          <section class="marcadores">
+          <section className="marcadores">
             <div>
               <NoteItem value="React" />
             </div>

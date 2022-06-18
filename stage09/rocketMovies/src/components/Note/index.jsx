@@ -16,11 +16,11 @@ export function Note({ data, ...rest }) {
       </Author>
 
       <h2> 
-        <FiStar class= {data.stars >= 1 ? "rated" : ""} />
-        <FiStar class= {data.stars >= 2 ? "rated" : ""} />
-        <FiStar class= {data.stars >= 3 ? "rated" : ""} />
-        <FiStar class= {data.stars >= 4 ? "rated" : ""} />
-        <FiStar class= {data.stars >= 5 ? "rated" : ""} />
+        <FiStar className= {data.stars >= 1 ? "rated" : ""} />
+        <FiStar className= {data.stars >= 2 ? "rated" : ""} />
+        <FiStar className= {data.stars >= 3 ? "rated" : ""} />
+        <FiStar className= {data.stars >= 4 ? "rated" : ""} />
+        <FiStar className= {data.stars >= 5 ? "rated" : ""} />
       </h2>
 
       <p>{data.description}</p>

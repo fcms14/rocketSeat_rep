@@ -30,7 +30,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -46,7 +46,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -62,7 +62,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -78,7 +78,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -94,7 +94,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -110,7 +110,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -126,7 +126,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
@@ -142,7 +142,7 @@ export function Home() {
           tags: [
             { id: '1', name: 'Ficcção Científica' },
             { id: '2', name: 'Drama' },
-            { id: '2', name: 'Família' },
+            { id: '3', name: 'Família' },
           ]
         }}
         />
