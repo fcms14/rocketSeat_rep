@@ -1,8 +1,8 @@
 <h1 align="center">
-	Rocketseat's Explorer Repository - Stage 10 - 01
+	Rocketseat's Explorer Repository - Stage 11 - 01
 </h1>
 <h2 align="center">
-	<a href="#"> Stage 10 - Finalizando o RocketMovies </a>
+	<a href="#"> Stage 11 - Finalizando o RocketMovies </a>
 </h2>
 
 <p align="center">
@@ -16,25 +16,19 @@
 
 # 💻 Sobre o desafio
 
-Wooow, esse Stage veio recheado de conteúdo, hein? 👀
-Bora por a mão na massa e aplicar tudo o que foi apresentado nessa aula, na nossa aplicação **RocketMovies**? ****🚀
+Faaaaaala, dev! Infelizmente estamos chegando nos momentos finais do nosso treinamento…😩
+Bora por a mão na massa e aplicar os últimos conceitos vistos em aula, na nossa aplicação **RocketMovies**? ****🚀
 
 Principais pontos que devem ser entregues nesse desafio:
 
- **1. Autenticação**
-Permita que um usuário se autentique na aplicação utilizando um e-mail e uma senha.
-Como visto em aula, a autenticação deverá ser feita utilizando JWT.
+ **1. Deploy do back-end**
+     Faça o deploy do back-end da sua aplicação utilizando o [**Heroku**](https://www.heroku.com/), como descrito passo a passo em aula.
 
-**2. Upload de imagens**
-Permita que o usuário consiga alterar a sua imagem de perfil ao clicar no ícone de câmera, localizada no canto inferior direito da foto:
-
-**3. Integração front-end e back-end.**
-Por último e não menos importante, vamos rever diversos conteúdos importantes ao fazer a integração do nossa interface (front-end) com a nossa api (back-end).
-Aqui que a mágica acontece! 💜🪄
-
-*****Lembrando*: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá!
-
-Boa sorte e boooooora codar! **🚀**
+ **2. Deploy do front-end**
+     Faça o deploy do front-end da sua aplicação utilizando o **[Netlify](https://www.netlify.com/)**, como descrito passo a passo em aula.
+**** 
+*Lembrando*: tente se desafiar mas, caso apareça alguma dificuldade, você pode ir no nosso **[fórum](https://app.rocketseat.com.br/h/forum/explorer)** e deixar sua dúvida por lá!
+Boa sorte e boooooora deployar! **🚀**
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
